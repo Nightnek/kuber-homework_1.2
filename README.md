@@ -25,7 +25,15 @@
 
 1. Создать манифест (yaml-конфигурацию) Pod.
 2. Использовать image - gcr.io/kubernetes-e2e-test-images/echoserver:2.2.
+
+<img width="694" height="211" alt="image" src="https://github.com/user-attachments/assets/0380e0c4-aab2-4395-80f7-949efa458ab3" />
+
+
 3. Подключиться локально к Pod с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
+
+<img width="657" height="95" alt="image" src="https://github.com/user-attachments/assets/28984f18-17ee-4f2d-93ec-01d1e0f852a4" />
+<img width="416" height="473" alt="image" src="https://github.com/user-attachments/assets/6b07afaa-09b7-4e42-9118-123ec565d505" />
+
 
 ------
 
